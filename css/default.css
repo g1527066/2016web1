@@ -7,7 +7,7 @@ div.tabbox { margin: 0px; padding: 0px; width: 400px; }
 p.tabs { margin: 0px; padding: 0px; }
 p.tabs a {
    /* ▼(B-2)リンクをタブのように見せる */
-   display: block; width: 5em; float: left;
+   display: block; width: 10em; float: left;
    margin: 0px 1px 0px 0px; padding: 3px;
    text-align: center;
    border-radius: 12px 12px 0px 0px; /* 角を丸くする */
