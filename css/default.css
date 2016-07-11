@@ -28,6 +28,6 @@ div.tab {
 div#tab1 { border: 2px solid blue; background-color: #ccffff; }
 div#tab2 { border: 2px solid #aaaa00; background-color: #ffffcc; }
 div#tab3 { border: 2px solid red; background-color: #ffcccc; }
-div#tab3 { border: 2px solid green; background-color: #ffcccc; }
+div#tab4 { border: 2px solid green; background-color: #ffcccc; }
 div.tab p { margin: 0.5em; }
 --></style>
