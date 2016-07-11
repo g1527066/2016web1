@@ -18,11 +18,11 @@ function ChangeTab(tabname) {
 }
 // --></script>
 <div class="tabbox">
-   <p class="tabs">
-      <a href="#tab1" class="tab1">タブ1</a>
-      <a href="#tab2" class="tab2">タブ2</a>
-      <a href="#tab3" class="tab3">タブ3</a>
-   </p>
+  <p class="tabs">
+   <a href="#tab1" class="tab1" onclick="ChangeTab('tab1'); return false;">タブ1</a>
+   <a href="#tab2" class="tab2" onclick="ChangeTab('tab2'); return false;">タブ2</a>
+   <a href="#tab3" class="tab3" onclick="ChangeTab('tab3'); return false;">タブ3</a>
+</p>     
    
    <div id="tab1" class="tab">
       <p>(タブ1の中身。何でも記述できます。)</p>
@@ -38,11 +38,7 @@ function ChangeTab(tabname) {
    // デフォルトのタブを選択
    ChangeTab('tab1');
 // --></script>
-<p class="tabs">
-   <a href="#tab1" class="tab1" onclick="ChangeTab('tab1'); return false;">タブ1</a>
-   <a href="#tab2" class="tab2" onclick="ChangeTab('tab2'); return false;">タブ2</a>
-   <a href="#tab3" class="tab3" onclick="ChangeTab('tab3'); return false;">タブ3</a>
-</p>       
+  
 
   </body>
 </html>
