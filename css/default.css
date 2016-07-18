@@ -13,10 +13,10 @@ p.tabs a {
    border-radius: 12px 12px 0px 0px; /* 角を丸くする */
 }
 /* ▼(B-3)各タブの配色 */
-p.tabs a.tab1 { background-color: #9BF9CC;  color: white; }
-p.tabs a.tab2 { background-color: #AEFFBD; color:white;}
-p.tabs a.tab3 { background-color: #9BF9CC;   color: white; }
-p.tabs a.tab4 { background-color: #AEFFBD;   color: white; }
+p.tabs a.tab1 { background-color:#00F9A9;  color: white; }
+p.tabs a.tab2 { background-color:#00FF3B; color:white;}
+p.tabs a.tab3 { background-color:#00F9A9;   color: white; }
+p.tabs a.tab4 { background-color:#00FF3B;   color: white; }
 p.tabs a:hover { color: yellow; }
 
 /* ▼(C)タブ中身のボックス */
