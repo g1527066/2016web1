@@ -22,7 +22,7 @@ p.tabs a:hover { color: yellow; }
 /* ▼(C)タブ中身のボックス */
 div.tab {
    /* ▼(C-2)ボックス共通の装飾 */
-   height: 300px; overflow: auto; clear: left;
+   height: 700px; overflow: auto; clear: left;
 }
 /* ▼(C-3)各ボックスの配色 */
 div#tab1 { border: 2px solid #00F9A9; background-color: #B1F9D0; }
