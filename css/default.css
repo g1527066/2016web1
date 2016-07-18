@@ -84,3 +84,9 @@ td{
   width:150px;
   text-align:right;
 }
+
+#ingredient{
+  border:2px solid lightcoral;
+border-collapse:collapse;
+
+}
