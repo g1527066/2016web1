@@ -44,3 +44,27 @@ font-size:30px;
                     0px 0px 13px deeppink,
                     0px 0px 13px deeppink,
                     0px 0px 13px deeppink;}
+                    
+caption{
+  padding:5px;
+  /*余白*/
+}
+
+#price{
+  background-color:lightyellow;/*背景色*/
+}
+thead th,tfoot th{
+  background-color:white;/*背景色*/
+}
+thead td{
+  color:white;/*文字色*/
+  background-color:lightcoral;/*背景色*/
+  text-align:center;/*中央寄せ*/
+}
+
+
+tfoot td{
+  font-weight:bold;/*文字の太さ*/
+  background-color:white;/*背景色*/
+}
+
