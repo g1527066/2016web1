@@ -70,7 +70,7 @@ tfoot td{
 
 th{
    border:1px solid lightcoral;
-   background-color:mistyrose;/*背景色*/
+   background-color:MediumSeaGreen ;/*背景色*/
   padding:5px;
   /*余白*/
   width:150px;
@@ -83,6 +83,7 @@ td{
   /*余白*/
   width:150px;
   text-align:right;
+   background-color: Snow ;/*背景色*/
 }
 
 #ingredient{
