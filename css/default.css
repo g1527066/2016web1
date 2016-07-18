@@ -78,7 +78,7 @@ th{
 }
 
 td{
-   border:1px solid lightcoral;
+   border:1px solid Lime ;
   padding:5px;
   /*余白*/
   width:150px;
@@ -87,7 +87,7 @@ td{
 }
 
 #ingredient{
-  border:1px solid lightcoral;
+  border:2px solid Lime ;
 border-collapse:collapse;
 
 }
