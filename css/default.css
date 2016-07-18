@@ -25,9 +25,9 @@ div.tab {
    height: 300px; overflow: auto; clear: left;
 }
 /* ▼(C-3)各ボックスの配色 */
-div#tab1 { border: 2px solid blue; background-color: #ccffff; }
+div#tab1 { border: 2px solid blue; background-color: #B1F9D0; }
 div#tab2 { border: 2px solid #aaaa00; background-color: #CBFFD3; }
-div#tab3 { border: 2px solid red; background-color: #ffcccc; }
+div#tab3 { border: 2px solid red; background-color:#B1F9D0; }
 div#tab4 { border: 2px solid green; background-color: #CBFFD3; }
 div.tab p { margin: 0.5em; }
 --></style>
