@@ -68,3 +68,19 @@ tfoot td{
   background-color:white;/*背景色*/
 }
 
+th{
+   border:1px solid lightcoral;
+   background-color:mistyrose;/*背景色*/
+  padding:5px;
+  /*余白*/
+  width:100px;
+  text-align:center;
+}
+
+td{
+   border:1px solid lightcoral;
+  padding:5px;
+  /*余白*/
+  width:80px;
+  text-align:right;
+}
