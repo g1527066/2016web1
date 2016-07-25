@@ -1,3 +1,9 @@
+body {
+background-image: url("001.gif");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: right bottom
+}
 
 <style type="text/css"><!--
 /* ▼(A)表示領域全体 */
